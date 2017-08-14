@@ -1,0 +1,32 @@
+*{
+  font-family: 'Cairo';
+  outline: none;
+}
+body{
+  background: linear-gradient(
+    rgba(0,0,0,0.7),
+    rgba(0,0,0,0.7)
+    ),
+    url(http://www.bestuidesign.com/images/original/binary-numbers-maps-digital-art-world-map-wallpaper-background-130762.jpg);
+  background-size: 100%;
+}
+.page-header{
+  color: #FFF;
+  font-weight: 900;
+  text-transform: uppercase;
+  margin-bottom: 65px;
+}
+.form-group{
+  margin-bottom: 20px;
+}
+.form-group .form-control{
+  height: 45px;
+}
+.form-group textarea.form-control{
+  height: 175px;
+}
+.submitBtn{
+  width: 100%;
+  background: #1e4271;
+  border-color: #1e4271;
+}
